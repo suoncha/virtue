@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  be:
+    image: be
+    container_name: be
+    restart: always
+    ports:
+      - 7001:3000
+    networks:
+      - game
+
+networks:
+  game:
+    name: game
+    external: true

@@ -1,0 +1,182 @@
+{
+    "version": [
+      {
+        "date": "06/14/2023",
+        "content": [
+            "Thanks for visiting this website",
+            "We have stopped supporting this game",
+            "Maybe in the future, we will meet again in another game. Stay tuned"
+        ]
+      },
+      {
+        "date": "06/08/2023",
+        "content": [
+            "Finish game contents for final presentation"
+        ]
+      },
+      {
+        "date": "05/31/2023",
+        "content": [
+            "Add a crypto item",
+            "Redesign some UI"
+        ]
+      },
+      {
+        "date": "05/30/2023",
+        "content": [
+            "Redesign some UI",
+            "Handle some API exceptions",
+            "Optimize Unity's bundle size"
+        ]
+      },
+      {
+        "date": "05/28/2023",
+        "content": [
+            "Fix all available web bugs",
+            "Fix all available API bugs"
+        ]
+      },
+      {
+        "date": "05/25/2023",
+        "content": [
+            "Optimize dun-gen generator 'cause it's too laggy"
+        ]
+      },
+      {
+        "date": "05/21/2023",
+        "content": [
+            "Just refactor some code and fix some bugs",
+            "Add a mobile screen"
+        ]
+      },
+      {
+        "date": "05/15/2023",
+        "content": [
+            "Advanced procedural dungeon generator: 3D maps will be generated instead of 2D maps", 
+            "Bought crypto items can now be used in-game"
+        ]
+      },
+      {
+        "date": "05/10/2023",
+        "content": [
+            "Add a crypto shop: Players can now buy crypto items",
+            "Change some small details UI", 
+            "Players can now log out or resume their account after close the browser"
+        ]
+      },
+      {
+        "date": "05/07/2023",
+        "content": [
+            "Players can delete save files", 
+            "Players can now switch between 3 guns"
+        ]
+      },
+      {
+        "date": "05/03/2023",
+        "content": [
+            "Add a latest version popup",
+            "Refactor some web functions"
+        ]
+      },
+      {
+        "date": "04/28/2023",
+        "content": [
+            "Enemies are smarter: Improving path-finding algorithm", 
+            "Design a control guide in options menu"
+        ]
+      },
+      {
+        "date": "04/22/2023",
+        "content": [
+            "Implent in-game options menu",
+            "Implent a quest system", 
+            "Players can not take a screenshot in-game"
+        ]
+      },
+      {
+        "date": "04/15/2023",
+        "content": [
+            "Redesign web UI", 
+            "Redesign in-game UI"
+        ]
+      },
+      {
+        "date": "04/07/2023",
+        "content": [
+            "Players can now create up to 3 save files",
+            "Players can not sprint", 
+            "Add a jetpack"
+        ]
+      },
+      {
+        "date": "04/02/2023",
+        "content": [
+            "Release beta version for early players",
+            "Add a mini boss", 
+            "Complete basic combat physics"
+        ]
+      },
+      {
+        "date": "03/26/2023",
+        "content": [
+            "Complete about us function", 
+            "Implent in-game shop system"
+        ]
+      },
+      {
+        "date": "03/20/2023",
+        "content": [
+            "Complete play as guest function",
+            "Complete feedback function", 
+            "Complete changelog function"
+        ]
+      },
+      {
+        "date": "03/10/2023",
+        "content": [
+            "Complete login function",
+            "Complete forgot password function", 
+            "Implent macro mechanic (radar, option menu, ...)"
+        ]
+      },
+      {
+        "date": "03/04/2023",
+        "content": [
+            "Finish Feedback API",
+            "Complete register function", 
+            "Implent more complex combat mechanic (healthbar, reload mechanic, ...)"
+        ]
+      },
+      {
+        "date": "02/26/2023",
+        "content": [
+            "Finish Authorization API",
+            "Finish Info API", 
+            "Implent more complex combat mechanic (combat physics, bullet physics, ...)"
+        ]
+      },
+      {
+        "date": "02/12/2023",
+        "content": [
+            "Optimize Dockerfile for faster build & cleaner image",
+            "Inject Unity's WebGL build into React, using React-WebGL-Unity library",
+            "Finish basic movement & combat mechanic"
+        ]
+      },
+      {
+        "date": "02/02/2023",
+        "content": [
+            "Perform dungeon generation on Unity",
+            "Decorate the website (using mock data)"
+        ]
+      },
+      {
+        "date": "01/17/2023",
+        "content": [
+            "Set up the infrastructure",
+            "Complete CI/CD pipelines for React & Nest", 
+            "Host this website using Nginx"
+        ]
+      }
+    ]
+}
